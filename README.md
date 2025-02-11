@@ -1,0 +1,1 @@
+# AI-Statistical-Analysis---ForestFire-Dataset-Using-Kaggle
